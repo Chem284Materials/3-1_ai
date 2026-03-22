@@ -22,3 +22,5 @@ Write out simple code or pseudo-code for a naive version of the operation, and s
 ## Task 4
 
 Compare the arithmetic intensity of the above operations with that of naive Matrix-Matrix multiplication and tiled Matrix-Matrix multiplication.
+
+## Answers
