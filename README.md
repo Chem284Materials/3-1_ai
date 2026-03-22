@@ -5,7 +5,7 @@
 Estimate the arithmetic intensity of Vector-Vector element-wise multiplication.
 In other words:
 
-$c_i = \sum_{i=1}^{n} a_i b_i$
+$c_i = a_i b_i$
 
 Write out simple code or pseudo-code for a naive version of the operation, and show your math when evaluating arithmetic intensity.
 
