@@ -1,5 +1,11 @@
 # Analyzing Arithmetic Intensity
 
+For all of the following tasks, assume that:
+
+1. A small number of rows and/or columns of any matrices can fit into cache.
+2. Any vectors can fit into cache.
+3. A small number of matrix blocks can fit into cache.
+
 ## Task 1
 
 Estimate the arithmetic intensity of Vector-Vector element-wise multiplication.
